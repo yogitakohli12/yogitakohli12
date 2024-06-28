@@ -1,4 +1,4 @@
-![logo](https://github.com/yogitakohli12/Yogita-Kohli/blob/main/Screenshot%202024-06-28%20200000.png)
+![logo](https://github.com/yogitakohli12/yogitakohli12/blob/main/Screenshot%202024-06-28%20200000.png)
 <h1 align="center">Hi 👋, I'm Yogita Kohli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
