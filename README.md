@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogitakohli12&label=Profile%20views&color=0e75b6&style=flat" alt="yogitakohli12" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/yogitakohli](www.linkedin.com/in/yogitakohli)
+- 👨‍💻 All of my projects are available at [[www.linkedin.com/in/yogitakohli](www.linkedin.com/in/yogitakohli](https://github.com/yogitakohli12))
 
 - 📫 How to reach me **https://www.linkedin.com/in/yogita-kohli-308661251/**
 
