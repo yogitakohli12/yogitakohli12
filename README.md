@@ -1,10 +1,10 @@
-![logo](https://github.com/yogitakohli12/yogitakohli12/blob/main/Screenshot%202024-06-28%20200000.png)
+![logo](https://github.com/yogitakohli12/yogitakohli12/blob/main/canva1.png)
 <h1 align="center">Hi 👋, I'm Yogita Kohli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="200px" height="150" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogitakohli12&label=Profile%20views&color=0e75b6&style=flat" alt="yogitakohli12" /> </p>
+<p align="left"> <img src="https://github.com/yogitakohli12/yogitakohli12/blob/main/canva1.png" /> </p>
 
 - 👨‍💻 All of my projects are available at [[www.linkedin.com/in/yogitakohli](www.linkedin.com/in/yogitakohli](https://github.com/yogitakohli12))
 
