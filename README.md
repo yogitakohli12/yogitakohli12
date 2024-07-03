@@ -4,7 +4,6 @@
 
 <img align="right" alt="coding" width="200px" height="150" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"/>
 
-<p align="left"> <img src="https://github.com/yogitakohli12/yogitakohli12/blob/main/canva1.png" /> </p>
 
 - 👨‍💻 All of my projects are available at [[www.linkedin.com/in/yogitakohli](www.linkedin.com/in/yogitakohli](https://github.com/yogitakohli12))
 
