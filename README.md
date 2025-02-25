@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="200px" height="150" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"/>
 
 
-- 👨‍💻 All of my projects are available at [[www.linkedin.com/in/yogitakohli](www.linkedin.com/in/yogitakohli](https://github.com/yogitakohli12))
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/yogitakohli]
 
 - 📫 How to reach me **https://www.linkedin.com/in/yogita-kohli-308661251/**
 
