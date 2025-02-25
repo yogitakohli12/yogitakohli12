@@ -1,6 +1,6 @@
 ![logo](https://github.com/yogitakohli12/yogitakohli12/blob/main/canva1.png)
 <h1 align="center">Hi 👋, I'm Yogita Kohli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="200px" height="150" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"/>
 
