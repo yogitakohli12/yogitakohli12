@@ -6,8 +6,8 @@
 
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/yogitakohli]
-
-- 📫 How to reach me **https://www.linkedin.com/in/yogita-kohli-308661251/**
+- 👨‍💻 portfolio **https://yogitakohli.netlify.app/**
+- 📫 How to reach me **https://www.linkedin.com/in/yogitakohli**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
