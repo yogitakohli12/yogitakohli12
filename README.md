@@ -1,4 +1,4 @@
-![logo](https://github.com/yogitakohli12/yogitakohli12/blob/main/yogi.jpeg)
+![logo](https://github.com/yogitakohli12/yogitakohli12/blob/main/Gemini_Generated_Image_197veg197veg197v.png)
 <h1 align="center">Hi 👋, I'm Yogita Kohli</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
